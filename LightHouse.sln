@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DX Application", "DX Application\DXApplication.vcxproj", "{06EDC280-1187-4614-A248-E640C095FA6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Profile|x86 = Profile|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EDC280-1187-4614-A248-E640C095FA6B}.Debug|x86.ActiveCfg = Debug|Win32
+		{06EDC280-1187-4614-A248-E640C095FA6B}.Debug|x86.Build.0 = Debug|Win32
+		{06EDC280-1187-4614-A248-E640C095FA6B}.Profile|x86.ActiveCfg = Profile|Win32
+		{06EDC280-1187-4614-A248-E640C095FA6B}.Profile|x86.Build.0 = Profile|Win32
+		{06EDC280-1187-4614-A248-E640C095FA6B}.Release|x86.ActiveCfg = Release|Win32
+		{06EDC280-1187-4614-A248-E640C095FA6B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E0819A-1E08-48CD-93BA-F7C5BA3DB369}
+	EndGlobalSection
+EndGlobal

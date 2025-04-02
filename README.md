@@ -4,4 +4,4 @@ A simple DirectX 11 learning framework that implements fundamental rendering pip
 
 ![lighthouse](https://github.com/user-attachments/assets/b15ee1d6-af90-42c5-bb99-7a59421f5354)
 
-![mirror](https://github.com/user-attachments/assets/bedbf7f1-fb2c-470f-a9b1-39e377687b22)
+![mirror](https://github.com/user-attachments/assets/f974d1e9-8b7c-4bc4-b101-15d5d851b4ce)
